@@ -1,0 +1,4 @@
+ANALISIS DEL SISTEMA
+Dada la problematica del cliente, se necesitará contar previamente con un intervalo de numeros, a los cuales se calculara las tablas. Siendo el primer número el que delimite donde se empezaran a hacer los calculos (Limite Inferior); el segundo número delimita el final de nuestros calculos(Limite Superior), a su vez no deberá ser menor que el limite inferior.
+Tambien debe de conciderarse el numero de tabla con la que se va a trabajar, esto cumpliendo con uno de los principales requisitos del sistema.
+No sobra aclarar que los numeros que se manejen serán de naturaleza entera, por lo que no se aceptaran numeros negativos ni aquellos que tengan punto decimal. 
