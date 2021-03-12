@@ -6,7 +6,7 @@ try:
     if t <0:
         quit()
 except:
-    print("Favor de ingresar un número positivo")
+    print("Favor de ingresar un número entero positivo")
     quit()
 
 ## Ingresa donde se iniciará la tabla de multiplicar
@@ -19,7 +19,7 @@ try:
     if s <0:
         quit()
 except:
-    print("Favor de ingresar un número positivo")
+    print("Favor de ingresar un número entero positivo")
     quit()
 ## Ingresa donde se terminará la tabla de multiplicar
 ## convierte el string en entero y detiene el programa si no encuentra un entero positivo
@@ -31,7 +31,7 @@ try:
     if e < s:
         quit()
 except:
-    print("Favor de ingresar un número mayor al inicio")
+    print("Favor de ingresar un número entero mayor al inicio")
     quit()
 
 ## Generación de un contador sencillo que imprime las tablas de acuerdo a las entradas anteriores
